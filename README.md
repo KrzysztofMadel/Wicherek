@@ -1,8 +1,9 @@
 # Wicherek
-Free Flight/RC Airplane Model
+Free Flight/RC Airplane
 
 Wiesław Schier, ABC Miniaturowego lotnictwa, WKiŁ, Warszawa 1977.
 
+![wicherek](https://github.com/KrzysztofMadel/Wicherek/blob/main/wicherek.jpg)
 
 WICHEREK to bardzo prosty, ale prawdziwy miniaturowy samolot. Ma ładną, zgrabną, miłą dla oka sylwetkę, podobny jest do prawdziwego samolotu sportowego. Łatwo go można zbudować. Do budowy potrzebne są minimalne umiejętności oraz najprostsze narzędzia — takie, jakie znajdują się w każdym domu — oraz najzwyklejsze, wszędzie dostępne, krajowe materiały.
 
