@@ -15,29 +15,27 @@ Jest w pełnym tego słowa znaczeniu uniwersalny. Może być budowany w dowolnyc
 
 WICHEREK nie jest modelem zawodniczym, został pomyślany i zaprojektowany jako model do zabawy — na wakacje nad wodę, w górach, w mieście i na wsi. Mimo to zdarzało się nieraz, że WICHEREK stawał na starcie i wygrywał w najcięższych warunkach nawet w takiej imprezie, jak Mistrzostwa Polski. Zawdzięcza to przede wszystkim swojej prostocie.
 
-Charakterystyka modelu
+### Charakterystyka modelu
 
 WICHEREK jest kadłubowym górnopłatem o sylwetce samolotu sportowego. Ma przestrzenny kadłub o prostokątnym przekroju i jednakowej szerokości oraz proste prostokątne płaszczyzny nośne. Mimo swojej prostoty model jest całkowicie rozbieralny. Wsparte zastrzałami i elastycznie zamocowane połówki skrzydeł dają się łatwo odejmować, podobnie jak statecznik poziomy, który spoczywa bezpośrednio na kadłubie i jest doń zamocowany za pomocą gumy. Mimo że WICHEREK może być budowany w różnych rozmiarach i odmianach, jego wersją podstawową jest model przeznaczony nominalnie do napędu silnikiem o pojemności 1 cm³. Ta wersja, oznaczona WICHEREK 10, pozwala bowiem w maksymalnym stopniu na wykorzystanie wszystkich zalet prostej konstrukcji tego samolociku.
 
 
-
 8-2. WICHEREK 10 w trzech rzutach (w nawiasach wymiary WICHERKA 15)
-
 
 Zasadnicze wymiary WICHERKA 10 podane są na rysunku 8-2, który przedstawia model w trzech podstawowych rzutach: w widoku (rzucie) z boku, z góry i z przodu, jest to wygodny sposób poglądowego przedstawiania ogólnej sylwetki samolotu i większość opisów technicznych posługuje się taką właśnie dokumentacją. Dane techniczne WICHERKA 10 są następujące:
 
-— rozpiętość skrzydeł — 1100 mm
-— całkowita długość modelu (i największy wymiar po złożeniu) — 720 mm
-— powierzchnia skrzydeł — 16 dm²
-— powierzchnia statecznika poziomego — 4dm²
-— całkowita powierzchnia nośna — 20dm²
-— ciężar modelu z silnikiem — około 300 G
-— możliwość uniesienia dodatkowego ładunku (aparatury RC) o ciężarze — max 250G
-— możliwość zastosowania pływaków i startu z wody — tak
-— możliwość zastosowania nart i startu ze śniegu — tak
-— silniki napędowe o pojemności — od 0,5 do 1.0 cm³
-— możliwość wykonania bez silnika w wersji szybowcowej — tak
-— możliwość ulepszeń i modernizacji — w pełni zachowana.
+- rozpiętość skrzydeł — 1100 mm
+- całkowita długość modelu (i największy wymiar po złożeniu) — 720 mm
+- powierzchnia skrzydeł — 16 dm²
+- powierzchnia statecznika poziomego — 4dm²
+- całkowita powierzchnia nośna — 20dm²
+- ciężar modelu z silnikiem — około 300 G
+- możliwość uniesienia dodatkowego ładunku (aparatury RC) o ciężarze — max 250G
+- możliwość zastosowania pływaków i startu z wody — tak
+- możliwość zastosowania nart i startu ze śniegu — tak
+- silniki napędowe o pojemności — od 0,5 do 1.0 cm³
+- możliwość wykonania bez silnika w wersji szybowcowej — tak
+- możliwość ulepszeń i modernizacji — w pełni zachowana.
 
 Teraz widzimy, dlaczego WICHEREK 10 jest wersją podstawową. Jest on dostatecznie duży, aby mógł mieć dobre właściwości lotne i zasłużyć na miano miniaturowego samolotu, i dostatecznie mały i lekki, aby mógł być łatwy do budowy i przewożenia, a trudny do uszkodzenia.
 
@@ -59,32 +57,9 @@ WICHEREK 10 jest jednym z pięciu przedstawicieli licznej rodziny. Rodzina WICHE
 
 Możliwości te przedstawione są na rysunku 8.3, a podstawowe dane techniczne całej rodziny zawiera tablica 8.1. WICHERKA 10 już poznaliśmy, omówimy więc pozostałe modele.
 
-
-Tablica 8.1. Podstawowe dane techniczne modeli typu WICHEREK
-
-Wersja modelu	
-Pojemność silnika
-napędowego [cm³]
-Cięciwa
-skrzydła
-l
-[mm]
-Rozpiętość
-modelu
-B
-[mm]
-Powierzchnia
-całkowita
-S+S
-[dm²]
-Długość
-modelu
-L
-[mm]
-Średni ciężar
-bez wyposa-
-żenia
-[G]
+### Tablica 8.1. Podstawowe dane techniczne modeli typu WICHEREK
+| Wersja modelu	| Pojemność silnika cm³ | Cięciwa skrzydła l mm | Rozpiętość B mm | Powierzchnia całkowita S+S dm² | Długość L mm | Średni ciężar bez wyposażenia G |
+|---------------|-----------------------|-----------------------|-----------------|--------------------------------|--------------|---------------------------------|
 S
 T
 W
@@ -134,9 +109,13 @@ Wicherek 50
 1000
 1800
 * bardziej polecany wymiar cięciwy
+
 Oznaczenia:
+
 S — zastosowanie szkolne — lekkie modele swobodnie latające
+
 T — zastosowanie treningowe — lekkie modele zdalnie kierowane
+
 W — zastosowanie wyczynowe — ciężkie modele zdalnie kierowane (wieloczynnościowe, hydro itp.)
 
 
