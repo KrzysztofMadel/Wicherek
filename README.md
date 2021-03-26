@@ -1,5 +1,6 @@
 # Wicherek
 Free Flight/RC Airplane
+
 Wiesław Schier, _ABC Miniaturowego lotnictwa_, WKiŁ, Warszawa 1977.
 
 ![](https://github.com/KrzysztofMadel/Wicherek/blob/main/wicherek.png)
