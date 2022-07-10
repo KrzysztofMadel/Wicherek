@@ -3,7 +3,7 @@ Free Flight/RC Airplane
 
 Wiesław Schier, _ABC Miniaturowego lotnictwa_, WKiŁ, Warszawa 1977.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/wicherek.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/images/wicherek.png)
 
 
 WICHEREK to bardzo prosty, ale prawdziwy miniaturowy samolot. Ma ładną, zgrabną, miłą dla oka sylwetkę, podobny jest do prawdziwego samolotu sportowego. Łatwo go można zbudować. Do budowy potrzebne są minimalne umiejętności oraz najprostsze narzędzia — takie, jakie znajdują się w każdym domu — oraz najzwyklejsze, wszędzie dostępne, krajowe materiały.
@@ -20,7 +20,7 @@ WICHEREK nie jest modelem zawodniczym, został pomyślany i zaprojektowany jako 
 
 WICHEREK jest kadłubowym górnopłatem o sylwetce samolotu sportowego. Ma przestrzenny kadłub o prostokątnym przekroju i jednakowej szerokości oraz proste prostokątne płaszczyzny nośne. Mimo swojej prostoty model jest całkowicie rozbieralny. Wsparte zastrzałami i elastycznie zamocowane połówki skrzydeł dają się łatwo odejmować, podobnie jak statecznik poziomy, który spoczywa bezpośrednio na kadłubie i jest doń zamocowany za pomocą gumy. Mimo że WICHEREK może być budowany w różnych rozmiarach i odmianach, jego wersją podstawową jest model przeznaczony nominalnie do napędu silnikiem o pojemności 1 cm³. Ta wersja, oznaczona WICHEREK 10, pozwala bowiem w maksymalnym stopniu na wykorzystanie wszystkich zalet prostej konstrukcji tego samolociku.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_02.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/images/08_02.png)
 
 > 8-2. WICHEREK 10 w trzech rzutach (w nawiasach wymiary WICHERKA 15).
 
@@ -61,9 +61,9 @@ Możliwości te przedstawione są na rysunku 8.3, a podstawowe dane techniczne c
 
 > Tablica 8.1. Podstawowe dane techniczne modeli typu WICHEREK.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_01_t.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/images/08_01_t.png)
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_03.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/images/08_03.png)
 
 > 8.3. Rodzina modeli typu WICHEREK, porównanie pięciu podstawowych sylwetek.
 
@@ -100,7 +100,7 @@ Tablica 8.2 umożliwi dobranie właściwych materiałów do wszystkich wersji WI
 
 > Tablica 8.2. Zastosowanie materiałów w konstrukcji modeli typu WICHEREK
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_02_t.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/images/08_02_t.png)
 
 Jak widzimy, do budowy modeli wystarczą najzwyklejsze krajowe materiały, listwy sosnowe, sklejka, druty. Ich kompletowanie nie powinno być zbyt kłopotliwe.
 
