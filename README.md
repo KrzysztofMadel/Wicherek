@@ -911,8 +911,8 @@ Wersja ta nadaje się szczególnie dobrze do zastosowania pływaków, a ponadto 
 
 ### Plany konstrukcyjne Wicherka
 
-> [Wicherek 10](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/wicherek10.png)
+> [Wicherek 10](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/wicherek_10.png)
 
-> [Wicherek U-25](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/wicherek25u.png)
+> [Wicherek U-25](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/wicherek_25_u.png)
 
-> [Wicherek 25P](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/wicherek25p.png)
+> [Wicherek 25P](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/wicherek_25_p.png)
