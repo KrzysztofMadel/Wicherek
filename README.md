@@ -61,9 +61,9 @@ Możliwości te przedstawione są na rysunku 8.3, a podstawowe dane techniczne c
 
 > Tablica 8.1. Podstawowe dane techniczne modeli typu WICHEREK.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/images/08_01_t.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_01_t.png)
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/images/08_03.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_03.png)
 
 > 8.3. Rodzina modeli typu WICHEREK, porównanie pięciu podstawowych sylwetek.
 
@@ -100,7 +100,7 @@ Tablica 8.2 umożliwi dobranie właściwych materiałów do wszystkich wersji WI
 
 > Tablica 8.2. Zastosowanie materiałów w konstrukcji modeli typu WICHEREK
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/images/08_02_t.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_02_t.png)
 
 Jak widzimy, do budowy modeli wystarczą najzwyklejsze krajowe materiały, listwy sosnowe, sklejka, druty. Ich kompletowanie nie powinno być zbyt kłopotliwe.
 
@@ -179,11 +179,11 @@ Wykonamy rysunki montażowe zasadniczych zespołów modelu, jak skrzydła, state
 
 Skrzydło ma dwie odejmowane symetryczne połowy. Na rysunku 8-11 przedstawiony jest konstrukcyjny i montażowy rysunek jednej połówki. Widać wyraźnie duże uproszczenie rysunku montażowego — jest to zwykły prostokąt, przedzielony poprzecznie równymi odstępami żeberek z zaznaczonym położeniem dźwigarów.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_11.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_11.png)
 
 > 8-11. Konstrukcyjny i montażowy rysunek skrzydła WICHERKA 10 (dane w nawiasach dotyczą WICHERKA 15).
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_12.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_12.png)
 
 > 8-12. Rysunki statecznika poziomego.
 
@@ -193,18 +193,18 @@ Statecznik (rys. 8-12) ma konstrukcję podobną jak skrzydło; wykonanie rysunk�
 
 Konstrukcja kadłuba (rys. 8-13) mimo że pozornie może się wydawać skomplikowana jest bardzo jednak prosta. Nietrudno zauważyć, że oprócz części nosowej obrys składa się z linii prostych, wyznaczonych charakterystycznymi punktami B, C, D, E, F.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_13.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_13.png)
 
 > 8-13. Konstrukcyjny rysunek kadłuba (elementy narysowane liniami przerywanymi stosowane mogą być w modelach o rozmiarach „15”, „25” i „50”).
 
 
 Wykonanie rysunku montażowego podzielimy na kilka etapów (rys. 8-14 a, b, i c).
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_14.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_14.png)
 
 > 8-14. Zasada wykonania montażowego rysunku kadłuba.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_15.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_15.png)
 
 > 8-15. Kształt przedniej bocznej ścianki kadłuba.
 
@@ -237,11 +237,11 @@ Cały model bez specjalnego wysiłku może być wykonany w ciągu 2 tygodni — 
 
 Rozpoczynamy od przygotowania kompletu żeberek do skrzydła. W tym celu należy przerysować dokładnie (za pomocą kalki technicznej) właściwy profil, nalepić na sklejkę i wykonać dokładny szablon. Za pomocą tego szablonu obrysowujemy żeberka na sklejce i następnie wycinamy. Wycinamy 22 żeberka ze sklejki 1 mm i 4 ze sklejki 1,5 mm. Żeberka wycinamy z pewnym zapasem (około 1 mm na stronę); z grubszej sklejki włośnicą, a nożyczkami z cieńszej. Można przy tym ułatwić sobie pracę; pociąć sklejkę nożem na cienkie paski i na każdym z nich wrysować po dwa żeberka (rys. 8-16). Wówczas linie wycinania mogą być proste, można użyć zwykłej piłki, a nawet wycinać po kilka żeberek jednocześnie.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_17.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_16.png)
 
 > 8-16. Ułatwienia przy rysowaniu i wycinaniu żeberek.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_17.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_17.png)
 
 > 8-17. Sposób zmontowania bloku żeberek.
 
@@ -249,7 +249,7 @@ Przygotowane żeberka składamy w jeden blok, zachowując kolejność podaną na
 
 Zmontowany blok obrabiamy bądź pilnikiem w imadle, bądź na papierze ściernym, tak aby obrys żeberek zrównał się z szablonem. Dokładność wykonania sprawdzamy za pomocą kątownika. W gotowym bloku należy następnie wyciąć i wypiłować nacięcia na krawędzie i dźwigary (rys. 8-19), tak aby przygotowane listewki pasowały z lekkim wciskiem.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_19.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_19.png)
 
 > 8-19. Wykończenie boku żeberek oraz gotowe wyażurowane żeberko.
 
@@ -257,7 +257,7 @@ Teraz blok rozbieramy, wyraźnie numerując kolejno zdejmowane żeberka. Kto chc
 
 Sposób montażu wyjaśnia rysunek 8-20 (poniższy):
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_20.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_20.png)
 
 > 8-20. Montaż skrzydła.
 
@@ -271,7 +271,7 @@ Do wykończenia będzie należało (patrz rys. 8-11): przyklejenie przy czwartym
 
 Wykończone skrzydło widzimy na rysunku 8-21 (przed oklejeniem partii przy kadłubowej kartonem).
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_21.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_21.png)
 
 Wykonanie statecznika poziomego przebiega analogicznie.
 
@@ -281,7 +281,7 @@ Pierwszym etapem jest zmontowanie bocznych kratownic. Przygotowujemy sobie dwie 
 
 W międzyczasie wykonujemy prostokątne wręgi. Dla WICHERKA 10 i 25 posługujemy się gotowymi rysunkami wręg, które można przekalkować bądź nakleić na sklejkę. Dla innych wersji modelu wręgi trzeba narysować przez odpowiednie powiększenie podstawowych wymiarów WICHERKA10. Zasadę wyjaśnia rysunek 8-23. Następnie wręgi ażurujemy i wykonujemy wycięcia na zamocowanie ścianek bocznych, podłużnic górnych i żeber przykadłubowych tak, jak pokazano na rysunku.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_23.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_23.png)
 
 > 8-23. Podstawowe wymiary oraz sposób wykreślania wręg kadłuba.
 
@@ -289,11 +289,11 @@ Po odjęciu wyschniętych kratownic, rozdzieleniu (żyletką) i oczyszczeniu, mo
 
 W tym celu należy sobie przygotować odpowiednią liczbę równo przyciętych patyczków 3x3 mm o długości 36 mm każdy (40 mm minus dwie grubości podłużnic). Równe przycięcie rozpórek ułatwi nam prosty przyrząd pokazany na rysunku 8-24. Tak przygotowane rozpórki wklejamy kolejno pomiędzy kratownice w punktach, gdzie znajdują się węzły (połączenia listewek na kratownicy), rys. 8-25.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_24.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_24.png)
 
 > 8-24. Praktyczny sposób równego przycinania rozpórek.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_25.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_25.png)
 
 > 8-25. Sposób i miejsce wklejenia poprzecznych rozporek.
 
@@ -301,7 +301,7 @@ Montaż możemy przeprowadzić na desce, przymocowując do niej kratownice na ic
 
 W trakcie montażu rozpórek zaklejamy w kadłubie również statecznik pionowy, który w formie płaskiej kratownicy należy wcześniej zmontować. Krawędź natarcia, dźwigar i krawędź spływu statecznika powinny być przyklejone do poprzecznych rozpórek kadłuba zarówno u góry, jak i dołu, co jest widoczne na rysunku 8-26. Wklejając statecznik pionowy należy zwrócić specjalną uwagę, aby zakleić go ściśle w osi kadłuba i dokładnie pionowo. Podobnie jak przy kratownicach, klejenie należy po wyschnięciu raz jeszcze poprawić.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_26.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_26.png)
 
 > 8-26. Sposób zamontowania statecznika pionowego.
 
@@ -319,15 +319,15 @@ Podwozie (rys. 8-27) nie jest zbyt skomplikowane. Golenie wykonujemy z blachy du
 
 Oprócz goleni należy wykonać również łącznik. który wiążąc obie golenie zabezpiecza tym samym kadłub przed rozerwaniem. Schemat montażowy podwozia podany jest na rysunku 8-28. Golenie przykręcamy do bocznych ścianek kadłuba za pomocą czterech śrubek. Łącznik i nakrętki można zakleić w kadłubie, co umożliwi łatwe odejmowanie podwozia po oklejeniu modelu. Odpowiednie przygięcie blach ułatwia ustawienie właściwego rozstawu kół podwozia. W razie braku blachy duralowej całe podwozie można wykonać z drutu (rys. 8-29). Sposób jest bardzo prosty, szprychy rowerowe są łatwe do nabycia.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_27.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_27.png)
 
 > 8-27. Główne podwozie Wicherka.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_28.png) 
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_28.png) 
 
 > 8-28. Montażowy schemat podwozia wykonanego z blachy duralowej.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_29.png) 
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_29.png) 
 
 > 8-29. Sposób wykonania głównego podwozia z drutu stalowego:
 > a — jednogoleniowego do małych modeli,
@@ -341,29 +341,29 @@ Zbiornik paliwa, o pojemności około 2 cm³ na każdy 1 cm³ silnika, można wy
 
 Aby zamontować skrzydła, musimy wykonać zastrzały. Ich konstrukcja i wykonanie są bardze proste — rysunek 8-33 wyjaśnia to całkowicie, jedna końcówka zastrzału (ta z blaszką) przykręcona jest na stałe (śrubką do drewna) do kołka zaklejonego w skrzydle, druga natomiast wchodzi w otworek wykonany w bocznej ściance kadłuba.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_30.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_30.png)
 
 > 8.30. Schemat montażu silnika.
 
 Skrzydła mocujemy w następujący sposób: zakładamy skrzydła na kołki ustalające, haczyki łączymy gumą, następnie wkładamy końcówki zastrzałów w kadłub i również związujemy gumkami. Takie zamocowanie jest trwałe i elastyczne. Kontrola zamocowania przed oklejeniem modelu polega przede wszystkim na sprawdzeniu, czy kąty ustawienia obu płatów są jednakowe.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_31.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_31.png)
 
 > 8-31. Silnik zamontowany w kadłubie modelu. Widoczny zbiorniczek paliwa, wykonany ze szklanej fiolki po lekarstwach.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_32.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_32.png)
 
 > 8-32. Kompletny, wyposażony kadłub WICHERKA 10.
 
 Kontrolujemy to patrząc na model z dużej odległości, od przodu. W przypadku gdy stwierdzimy różnice, należy je natychmiast usunąć. Kontrolujemy teraz (patrząc z boku) kąt nastawienia statecznika poziomego. Prawidłowe jego ustawienie powinno być mniej więcej równoległe do podłużnej osi kadłuba (patrz rys. 8-38). Sprawdzamy również (patrząc z przodu), czy wznios obu połówek płatków jest ten sam, czy statecznik pionowy jest ustawiony pionowo, a statecznik poziomy — poziomo.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_33.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_33.png)
 
 > 8-33. Wykonanie zastrzałów i montaż skrzydeł:
 > a — zakładanie gumy łączącej skrzydła, 
 > b — dopasowanie i mocowanie zastrzałów.
  
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_34.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_34.png)
 
 > 8-34. Kompletnie zmontowany model przygotowany do oklejania.
 
@@ -396,7 +396,7 @@ Pokrywanie papierem japońskim. Pokrycie z papieru japońskiego jest lżejsze, m
 * następnie przyklejamy papier do krawędzi i zanim Cellon wyschnie, naprężamy pokrycie, starając się usunąć podłużne fałdy, które mogą powstać przy przyklejaniu do żeber (należy to zrobić szybko, aby Cellon nie wysechł),
 * papieru japońskiego nie moczy się, oklejona powierzchnia gotowa jest do impregnacji.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_35.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_35.png)
 
 > 8-35. Przebieg pokrywania skrzydła papierem.
 
@@ -420,11 +420,11 @@ Można używać różnych farb, ale najpewniejszy jest zwyczajny, kolorowy, niec
 
 Oprócz tego będziemy mogli stosować malowanie całych powierzchni lakierami nitro rozmieszanymi w Cellonie. Malowanie takie wymaga jednak pewnej umiejętności — stosowania rzadkiego Cellonu i dużej ilości warstw, aby było efektowne. Praktykuje się je w zasadzie tylko wówczas, gdy papier, którym oklejaliśmy, jest bardzo brzydki, n p. zadrukowany papier japoński. Stosować należy farby dobrze kryjące lub proszek aluminiowy rozpuszczony w rzadkim Cellonie. Może on być używany jako lakier ozdobny, a także jako doskonały podkład pod inny kolorowy lakier nitro. Aby zabezpieczyć się przed pękaniem lakieru, można dodać do niego (dla uelastycznienia) odrobinę oleju rycynowego. Metody te, których możemy się uczyć już na WICHERKU, przydadzą się później przy modelach prawdziwych samolotów. Znaki i ozdoby możemy również malować lakierami nitro wprost na pocellonowanym pokryciu.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_36.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_36.png)
 
 > 8-36. Kilka propozycji ozdobnego malowania modelu.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_37.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_37.png)
 
 > 8-37. Farbowanie papieru japońskiego.
 
@@ -440,13 +440,13 @@ Oklejony i pomalowany model należy zmontować. Przede wszystkim montujemy silni
 
 Po założeniu skrzydeł i statecznika sprawdzamy raz jeszcze cały model (rys. 8-38).
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_38.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_38.png)
 
 > 8-38. Sprawdzenie symetrii płaszczyzn nośnych oraz nieprawidłowości, które muszą być konieczne usunięte.
 
 Sprawdzamy przede wszystkim, czy płaszczyzny nośne są proste i dobrze ustawione oraz kontrolujemy położenie środka ciężkości, podpierając model pod skrzydłami, aż kadłub ustawi się poziomo (rys. 8-39). Prawidłowe wyważenie powinno się zawierać w granicach od 40—50% szerokości (cięciwy) skrzydła, co dla WICHERKA 10 daje odległość 60—75 cm od krawędzi natarcia. W przypadku gdyby środek ciężkości położony był dalej niż w połowie głębokości skrzydła, model należy wyważyć, przyklejając kawałek ołowiu (lub śrut ołowiany) w komorze silnikowej. Gdyby położenie środka ciężkości znalazło się zanadto z przodu, należy przykleić ciężarek (blaszkę) z tyłu kadłuba.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_39.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_39.png)
 
 > 8-39. Sprawdzenie położenia środka ciężkości.
 
@@ -471,24 +471,24 @@ W pogodny, możliwie bezwietrzny dzień jedziemy na lotnisko.
 
 Oblatywanie modelu rozpoczynamy od sprawdzenia lotu ślizgowego z ręki. Jeżeli śmigło jest drewniane, należy je zdjąć, aby się nie złamało.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_40.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_40.png)
 
 > 8-40. Złożony model przygotowany do transportu.
 
 Wypuszczamy model z rozbiegu — pod wiatr — skierowując maskę modelu lekko ku ziemi. Lot powinien być prosty, bez tendencji do zmiany kierunku i szybkości. Rysunek 8-41 wyjaśnia, jak należy trzymać model, jak wygląda wypuszczanie i jak powinien wyglądać lot. Jeżeli spostrzeżemy, tuż po wypuszczeniu, że model nie leci normalnie, można go ponownie złapać do ręki (rys. 8-42), pozwala na to mała prędkość WICHERKA. Dla pełnego bezpieczeństwa dobrze jest oblatywać model nad bujną trawą, która łagodzi ewentualne „upadki”.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_41_a.png)
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_41_b.png)
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_41_c.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_41_a.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_41_b.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_41_c.png)
 
 > 8-41. Oblatywanie modelu:
 > a — tak należy trzymać model w chwili wypuszczania, b — tak należy wypuszczać, c — tak powinien wyglądać lot.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_42.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_42.png)
 
 > 8-42. Model można złapać do ręki, gdy lot jest nieprawidłowy.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_43.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_43.png)
 
 > 8-43. Pierwszy samodzielny lot silnikowy — sposób wypuszczenia modelu.
 
@@ -505,7 +505,7 @@ W locie silnikowym możemy się spotkać z różnymi nieprawidłowościami.
 * Jeżeli zakręt modelu jest zbyt ciasny i połączony dodatkowo z obniżeniem lotu — oznacza to, że kąt skręcenia silnika w bok (w kierunku zgodnym z obrotami) jest zbyt mały i trzeba go powiększyć przez poluzowanie śrub bocznych i dalsze skręcenie silnika. Jeżeli silnik już nie daje się skręcić, trzeba podpiłować (iglakiem) otwory w zamocowaniu.
 * Jeśli zakręt jest zgodny z kierunkiem obrotów śmigła (rys. 8-44), oznacza to, że kąt bocznego skręcenia silnika jest zbyt duży i trzeba go koniecznie zmniejszyć.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_44.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_44.png)
 
 > 8-44. Głęboki zakręt w kierunku zgodnym z obrotami śmigła jest niebezpieczny.
 
@@ -517,7 +517,7 @@ Gdy paliwo się wyczerpie i silnik zatrzyma się, model przechodzi do lotu śliz
 
 Po uzyskaniu pomyślnych wyników w lotach z ręki możemy spróbować startu samodzielnego. WICHEREK potrzebuje do tego kilku metrów względnie równego gruntu — startuje jak prawdziwy samolot, a wygląda to bardzo efektownie (rys. 8-46). Trzeba tylko przedtem dobrze ustawić kółka, aby model toczył się prosto, i wypuścić go dokładnie pod wiatr.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/8_45.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_45.png)
 
 > 8-45. Regulacja krążenia modelu przez skośne ustawienie statecznika poziomego.
  
@@ -530,7 +530,7 @@ Druga faza — to uszczelnienie, które trzeba przeprowadzić niezależnie od te
 
 Jeśli model nie był zbyt mocno pomalowany, można go pomalować raz jeszcze Cellonem z niewielkim dodatkiem oleju rycynowego (czyni powłokę bardziej elastyczną).
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_06.png) 
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_06.png) 
 
 > 9-6. Konstrukcja pływaków (wymiary dla wersji 10): A-A¹ — pływak zwykły, A-A² — pływak ze skośnym dnem.
 
@@ -538,7 +538,7 @@ Teraz możemy przystąpić do budowy pływaków. Jak widzimy na rysunku 9-6, kon
 
 > Tablica 9.1. Pływaki dla WICHERKA H — wymiary i materiały.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_01_t.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_01_t.png)
 
 Szkielet pływaka sklejamy koniecznie klejem wodoodpornym (nitrocelulozowym). Po zmontowaniu należy przykleić do wręg klocki z lipiny lub buczyny, które będą stanowiły zamocowanie pływaka. Jeżeli przewidujemy podwozie z drutu, klocki trzeba przewiercić na średnicę równą średnicy drutu. Konstrukcję pływaka należy bardzo starannie i kilkakrotnie impregnować Cellonem, a wręgi, jeśli są ażurowane, zakleić papierem, dzięki czemu podzielimy pływak na kilka wodoszczelnych komór.
 
@@ -548,14 +548,14 @@ Znacznie lepsze właściwości mają pływaki z dnem o przekroju trójkątnym �
 
 Zamocowanie pływaków do modelu możemy rozwiązać w dwojaki sposób, zależnie od tego, czy model miał podwozie wykonane z blachy, czy też z drutu. W pierwszym przypadku mocujemy pływaki tak, jak przedstawiono na rysunku 9-7a, przykręcając golenie podwozia wprost do pływaka (w miejscu zaklejenia klocków) za pomocą śrubek do drewna. Golenie tylne i połączenia między pływakami wykonujemy z pasków sztywnej blachy duralowej i mocujemy do kadłuba paskami gumy, zaczepiając je o specjalnie w tym celu wklejony kółeczek.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_07.png) 
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_07.png) 
 
 > 9-7. Zamocowanie pływaków do kadłuba Wicherka W:
 > a — dla Wicherka 5W i 10W, b — dla większych modeli.
 
 Zamocowanie tego typu jest korzystne dla niedużych lekkich modeli. W drugim przypadku, kiedy mamy do czynienia z większym modelem, lepiej stosować golenie z drutu (rys. 9-7b), który wówczas przechodzi na wylot poprzez kołki zaklejone w pływakach. Połączenie pomiędzy pływakami jest konieczne, ponieważ usztywnia całość i zabezpiecza przed „rozjeżdżaniem” się pływaków na wodzie. Można je stosować nawet do małych modeli. Wykonując golenie trzeba zachować dostateczna odległość górnej powierzchni pływaka od śmigła. Dla WICHERKA 10H odległość ta powinna wynosić co najmniej 50 mm. Pływaki należy ustawić tak, jak pokazuje rysunek 9-8. Ważne jest, aby stopień (redan) wysunięty był nieco (około 10% cięciwy skrzydła) przed środek ciężkości — ułatwia to oddzielenie się modelu od lustra wody.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_08.png) 
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_08.png) 
 
 > 9-8. Ustawienie pływaków oraz dodatkowa powierzchnia ustateczniająca.
 
@@ -569,7 +569,7 @@ W lecie kałuże na ogół wysychają i wówczas musimy szukać naturalnych zbio
 
 Przed startem należy model postawić na wodzie i sprawdzić, czy zajmuje on właściwą pozycję. Prawidłowa pozycja pokazana jest na rysunku 9-9. Charakteryzuje się ona tym, że model ustawia się pod dodatnim kątem w stosunku do powierzchni wody, a końce pływaków zanurzają się głębiej niż ich przód, jeśli pozycja modelu jest nieprawidłowa, oznacza to, że tylne golenie podwozia są źle. dobrane; jeśli model trzyma ogon zbyt wysoko, golenie należy skrócić przy sytuacji odwrotnej — zrobić nowe, dłuższe.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_09.png)  
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_09.png)  
 
 > 9-9. Prawidłowa pozycja modelu na wodzie.
 
@@ -577,12 +577,12 @@ Przy starcie z wody nie można rozpoczynać lotów od najmniejszych obrotów sil
 
 Po krótkim rozbiegu pływaki wynurzają się z wody, a model ślizgając się po jej powierzchni nabiera odpowiedniej prędkości, odrywa się i rozpoczyna normalne wznoszenie. Okres ślizgania się (rys. 9-11 b) jest szczególnie ważny dla startu — jeżeli bowiem model nie będzie się ślizgał prawidłowo, start będzie utrudniony lub wręcz niemożliwy.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_11.png)  
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_11.png)  
 
 > 9-11. Najważniejsze fazy startu z wody:
 > a — pływanie, b — ślizg na redanie, c — oderwanie.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_12.png)  
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_12.png)  
 
 > 9-12. Regulacja ustawienia pływaków.
 
@@ -604,9 +604,9 @@ Takie są ogólne zasady regulacji modelu na wodzie. Jeśli model i pływaki są
 
 Dorobienie pływaków nie jest zbyt trudne ani kłopotliwe, radości i dobrej zabawy jest za to później co niemiara.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_13_a.png)  
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_13_b.png)  
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_13_c.png)  
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_13_a.png)  
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_13_b.png)  
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_13_c.png)  
 
 > 9-13. Piękne loty WICHERKA nad jeziorami mazurskimi. Zdjęcia przedstawiają zdalnie kierowaną wersję modelu.
 
@@ -625,7 +625,7 @@ Rozmiary nart zależne są oczywiście od wielkości i ciężaru modelu. Im mode
 
 > Tablica 9-2. Wymiary nart dla WICHERKA Z.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_02_t.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_02_t.png)
 
 Wykonanie narty jest bardzo proste. Należy ją skleić z dwóch pasków sklejki o grubości takiej jak na żeberka i szerokości b. Klejenie ułatwi nam prosty przyrząd pokazany również na rysunku 9-16, wykonany z kawałka deski. Kleimy na nim paski sklejkowe, przybijając je po prostu gwoździkami, aby podgięcia narty zostały zachowane. Po sklejeniu wyciągamy gwoździe, opiłowujemy nartę i po wycięciu odpowiedniego otworu zaklejamy sklejkowy wspornik (sklejka jak na wręgi lub lepiej grubsza). Narty można również wykonać z deseczki (balsowej lub lipowej). Płozę tylną można zrobić z kawałka balsy lub korka.
 
@@ -643,19 +643,19 @@ Dla WICHERKA U (na uwięzi) również możemy sporządzić narty, stosując taki
 
 Start modelu na uwięzi ze śniegu jest bardzo ciekawy i dostarcza wiele emocji, zwłaszcza wtedy gdy śnieg jest puszysty. Model zapada się w puchu, wznieca tumany śnieżnego pyłu, rozpędza się, ślizga po powierzchni sypkiego śniegu, ścina śmigłem nierówności... jeszcze chwila — minimalnie ściągnięcie steru — i jest już w powietrzu.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_14_a.png)
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_14_b.png)
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_14_c.png)
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_14_d.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_14_a.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_14_b.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_14_c.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_14_d.png)
 
 > 9-14. Zimowa wersja WICHERKA:
 > a — początek rozbiegu, b — moment startu, c — start, d — powrót po locie.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_15.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_15.png)
 
 > 9-15. Konstrukcja oraz zamocowanie nart przednich i płozy ogonowej.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_16.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_16.png)
 
 > 9-16. Zasadnicze wymiary oraz wykonanie narty.
  
@@ -680,21 +680,21 @@ Wykonanie czuba jest bardzo proste. Możemy go zrobić z jakiegokolwiek drewna, 
 
 Tak wykonany czub jest jednak zbyt lekki, aby mógł sam zrównoważyć brak silnika i podwozia i dlatego trzeba wykonać w nim komorę na pomieszczenie wyważającego balastu. Jak zrobić to najprościej, pokazuje rysunek 9-20.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_20.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_20.png)
 
 > 9-20. Wykonanie czuba.
 
 
 Pozostaje jeszcze wykonać u góry nieduży otworek do napełniania balastem i czub jest gotowy. Wkładamy go pomiędzy dwie przednie ścianki kadłuba i przykręcamy z każdej strony za pomocą trzech małych wkrętów do drewna (rys. 9-21).
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_21.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_21.png)
 
 > 9-21. Zamocowanie czuba w kadłubie modelu.
 
 
 Kto nie planuje w przyszłości zastosowania silnika, może po prostu wkleić czub na stałe. Płozę (rys. 9-22) możemy wykonać z drutu stalowego lub z bambusa. Jej przedni koniec jest lekko zagięty i włożony w skośny otwór, który należy wywiercić w czubie od spodu. Z drugiej strony płoza opiera się na wsporniku z grubszej sklejki i razem z nim przywiązana jest nićmi do dolnej poprzeczki wręgi 3 lub do łącznika z blachy duralowej, wykonanego jak dla wersji silnikowej.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_22.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_22.png)
 
 > 9-22. Konstrukcja i zamocowanie płozy.
 
@@ -729,7 +729,7 @@ Teraz już wszystko jest w porządku. Dajemy znak pomocnikowi i rozpoczynamy sta
 
 Jak szybko i jak długo należy biec przy wypuszczeniu? Zależy to wyłącznie od szybkości wiatru i ciężaru (obciążenia) modelu — przy silnym wietrze wystarczy (stojąc) otworzyć rękę aby model wystartował w ciszy trzeba się trochę rozpędzić. W momencie wypuszczenia nie trzeba modelu ani popychać, ani wyrzucać do góry. Wystarczy zwolnić uchwyt dłoni, a nawet można lekko pociągnąć model w dół. Pomocnik powinien uważać aby nie biec szybciej od holującego i nie zwolnić naciągu holu gdyż spowoduje to wyczerpanie się modelu zaraz po starcie. Przebieg holowania (rys. 9-28) można podzielić na trzy zasadnicze fazy, zakładając, że holowanie odbywa się podczas małego wiatru lub bezwietrznej pogody.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/9_28.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/09_28.png)
 
 > 9-28. Klasyczny przebieg holowania modelu szybowca.
 
@@ -770,14 +770,14 @@ Na rysunku 12-1 są podane wyjściowe proporcje wszystkich części płatowca, n
 
 Jako wymiar podstawowy przyjęto cięciwę skrzydła (głębokość, szerokość) oznaczoną przez l. Od tego wymiaru uzależniona jest bezpośrednio wielkość pozostałych wymiarów modelu. Wymiar cięciwy skrzydła l ustalamy zależnie od tego, do jakich celów ma służyć model i jakim silnikiem będzie napędzany. Dobór cięciw do modeli różnych typów podaje (tablica 12.1).
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/12_01.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/12_01.png)
 
 > 12-1. Projektowe proporcje modelu samolotu:
 > a — widok z boku, b — widok z góry, c — widok z przodu.
 
 > Tablica 12-1. Zalecane wymiary cięciwy skrzydła dla modeli różnego typu
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/12_01_t.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/12_01_t.png)
 
 Przy ustalaniu proporcji przyjęto następujące założenia i oznaczenia:
 * wymiar podstawowy — cięciwa skrzydła l
@@ -799,7 +799,7 @@ Przy projektowaniu modelu wszystkie wymienione wymagania muszą być spełnione.
 
 Wiemy już, że siła nośna skrzydła i statecznika poziomego zależy w znacznym stopniu od zastosowania odpowiedniego profilu. Dla zwykłych szkolno treningowych zastosowań wystarczą sprawdzone w WICHERKU bardzo dobre, a przy tym proste i łatwe do wykonania profile typu R 310 w skrzydle i R 308 w stateczniku poziomym. Długość profilu równa jest cięciwie skrzydła l lub statecznika l h i może być rozmaita, zależnie od tego, jaki rozmiar modelu wybierzemy (tabl. 12.1). Musimy więc opanować sztukę wykreślania profili o różnej długości. Zabieg jest bardzo prosty i rysunek 12-2 wyjaśnia go całkowicie.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/12_02.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/12_02.png)
 
 > 12-2. Sposób wykreślania płasko-wypukłych profili typu R.
 
@@ -812,7 +812,7 @@ Kolejność postępowania jest następująca:
 
 Projektując indywidualnie, w przypadku gdy chcemy rozszerzyć zakres zastosowania modelu lub nadać mu bardziej wyczynowy charakter, możemy oczywiście zastosować inne profile zarówno do skrzydła, jak i do statecznika poziomego. Zmiany te będą polegały przede wszystkim na zastosowaniu bardziej wklęsłego profilu skrzydła w przypadku, gdy chcielibyśmy uzyskać mniejszą prędkość lotu (na przykład przy szybowcu termicznym), a dwuwypukłego dla szybszych modeli na uwięzi i modele zdalnie kierowanych. W obu przypadkach profil statecznika poziomego powinien być zmieniony nie na nośny, oparty na tej samej zasadzie co płaskowypukłe profile R, tylko na symetryczny. Zasada wykreślenia takiego profilu (profil R 304-4) o grubości 8% pokazana jest na rysunku 12-3.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/12_03.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/12_03.png)
 
 > 12-3. Sposób wykreślania profilu symetrycznego typu R.
 
@@ -821,7 +821,7 @@ Projektując indywidualnie, w przypadku gdy chcemy rozszerzyć zakres zastosowan
 
 Czy tylko taki model, jak na rysunku 12-1 będzie dobrze latał? Niekoniecznie. Zachowując podane proporcje można sobie pozwolić na dość znaczną modyfikację zewnętrznego wyglądu modelu. Kilka spośród wielu możliwości pokazuje rysunek 12-4.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/12_04.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/12_04.png)
 
 > 12-4. Zasady przekształcania sylwetki modelu.
 
@@ -838,7 +838,7 @@ Zarówno w miniaturowym, jak i prawdziwym lotnictwie podstawowa konstrukcja jest
 
 Wersja szybowcowa (rys. 12-5) [Wicherek S – szybowiec] powstaje po odjęciu podwozia i silnika. Brak podwozia powinien być zastąpiony płozą do lądowania, zakończoną haczykiem do startu z holu. Brak silnika należy zrównoważyć odpowiednim balastem, aby położenie środka ciężkości nie uległo zmianie. Dla pomieszczenia balastu model musi być zaopatrzony w odpowiedni czub. Wersja szybowcowa powinna być tak opracowana, aby istniała możliwość wmontowania silnika. Jest to szczególnie istotne dla tych modelarzy, którzy nie dysponują na razie odpowiednią sumą pieniędzy na zakup silnika.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/12_05.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/12_05.png)
 
 > 12-5. Proporcje modelu szybowca oraz możliwości powiększenia wydłużenia skrzydła:
 > a — widok z boku, b — widok z góry, c — widok z przodu.
@@ -854,7 +854,7 @@ Jeżeli planujemy, że model będzie użyty do startów zawodniczych, na przykł
 
 > ¹ Ze względów technicznych na rys. podano profile o cięciwie 180 mm. Należy je stosować zamiast profili cięciwy dł. 200 mm.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/12_07.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/12_07.png)
 
 > Rys 12-7. Profile wyczynowych szybowców.
 
@@ -862,7 +862,7 @@ Jeżeli planujemy, że model będzie użyty do startów zawodniczych, na przykł
 
 Wersja dolnopłatowa (rys. 12-8) powstaje przez przeniesienie skrzydła z góry i umieszczenie go u dołu kadłuba. W przypadku modelu swobodnie latającego dla zachowania stateczności konieczne jest zwiększenie wzniosu skrzydła o około 2°. Wersję dolnopłatowa można polecić do modeli na uwięzi (możliwość prowadzenia linek w skrzydle) oraz zdalnie kierowanych (szczególnie wielokanałowych).
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/12_08.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/12_08.png)
 
 > 12-8. Proporcje swobodnie latającego lub jednoczynnościowego zdalnie kierowanego modelu dolnopłatowego:
 > a — widok z boku, b — widok z góry, c — widok z przodu.
@@ -873,14 +873,14 @@ Konkretne propozycje nieco dalej. Wersja na uwięzi (rys. 12-9) powstaje przez w
 * Przesunięcie środka ciężkości do przodu; nowy środek ciężkości powinien znajdować się w odległości 0—0,15 l od krawędzi natarcia.
 * Umieszczenie linek na poziomie środka ciężkości, dodanie prowadzenia na końcu skrzydła.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/12_09.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/12_09.png)
 
 > 12-9. Proporcje dolnopłatowego modelu na uwięzi:
 > a — widok z boku, b — widok z góry, c — widok z przodu.
 
 Ponadto wersja na uwięzi wymaga zastosowania odpowiednio mocniejszego silnika (patrz tablica 12.1) i mocniejszej konstrukcji. Zastosowanie dwuwypukłego (rys. 12-10) profilu o grubości około 12%, np. NACA 23012, poprawia zdecydowanie stateczność modelu i pozwala osiągnąć większą prędkość.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/12_10.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/12_10.png)
 
 12-10. Profile dla modeli na uwięzi.
 
@@ -894,16 +894,16 @@ Wersja dwupłatowa (rys. 12-13) utworzona przez dodanie dolnego skrzydła może 
 
 Wersja ta nadaje się szczególnie dobrze do zastosowania pływaków, a ponadto może być wykorzystywana do nauki akrobacji, zarówno modelem na uwięzi, jak i zdalnie kierowanym. W tym przypadku profil powinien być zmieniony na gruby dwuwypukły, n p. NACA 2415 do akrobacji podstawowej lub symetryczny o grubości 15—18% do pełnej akrobacji (patrz rys. 12-12). Profil symetryczny można łatwo zaprojektować z dwóch profili typu R 308.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/12_11.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/12_11.png)
 
 > 12-11. Proporcje wieloczynnościowego modelu zdalnie kierowanego:
 > a — widok z boku, b — widok z góry.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/12_12.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/12_12.png)
 
 > 12-12. Profile dla modeli zdalnie kierowanych.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/12_13.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/12_13.png)
 
 > 12-13. Proporcje modelu dwupłatowego o uniwersalnym zastosowaniu:
 > a — widok z boku, b — widok z góry, c — widok z przodu.
@@ -911,8 +911,8 @@ Wersja ta nadaje się szczególnie dobrze do zastosowania pływaków, a ponadto 
 
 ### Plany konstrukcyjne Wicherka
 
-> [Wicherek 10](https://github.com/KrzysztofMadel/Wicherek/blob/main/wicherek10.png)
+> [Wicherek 10](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/wicherek10.png)
 
-> [Wicherek U-25](https://github.com/KrzysztofMadel/Wicherek/blob/main/wicherek25u.png)
+> [Wicherek U-25](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/wicherek25u.png)
 
-> [Wicherek 25P](https://github.com/KrzysztofMadel/Wicherek/blob/main/wicherek25p.png)
+> [Wicherek 25P](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/wicherek25p.png)
