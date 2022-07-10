@@ -3,7 +3,7 @@ Free Flight/RC Airplane
 
 Wiesław Schier, _ABC Miniaturowego lotnictwa_, WKiŁ, Warszawa 1977.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/images/wicherek.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/wicherek.png)
 
 
 WICHEREK to bardzo prosty, ale prawdziwy miniaturowy samolot. Ma ładną, zgrabną, miłą dla oka sylwetkę, podobny jest do prawdziwego samolotu sportowego. Łatwo go można zbudować. Do budowy potrzebne są minimalne umiejętności oraz najprostsze narzędzia — takie, jakie znajdują się w każdym domu — oraz najzwyklejsze, wszędzie dostępne, krajowe materiały.
@@ -20,7 +20,7 @@ WICHEREK nie jest modelem zawodniczym, został pomyślany i zaprojektowany jako 
 
 WICHEREK jest kadłubowym górnopłatem o sylwetce samolotu sportowego. Ma przestrzenny kadłub o prostokątnym przekroju i jednakowej szerokości oraz proste prostokątne płaszczyzny nośne. Mimo swojej prostoty model jest całkowicie rozbieralny. Wsparte zastrzałami i elastycznie zamocowane połówki skrzydeł dają się łatwo odejmować, podobnie jak statecznik poziomy, który spoczywa bezpośrednio na kadłubie i jest doń zamocowany za pomocą gumy. Mimo że WICHEREK może być budowany w różnych rozmiarach i odmianach, jego wersją podstawową jest model przeznaczony nominalnie do napędu silnikiem o pojemności 1 cm³. Ta wersja, oznaczona WICHEREK 10, pozwala bowiem w maksymalnym stopniu na wykorzystanie wszystkich zalet prostej konstrukcji tego samolociku.
 
-![](https://github.com/KrzysztofMadel/Wicherek/blob/main/images/08_02.png)
+![](https://github.com/KrzysztofMadel/Wicherek/blob/main/Images/08_02.png)
 
 > 8-2. WICHEREK 10 w trzech rzutach (w nawiasach wymiary WICHERKA 15).
 
@@ -106,7 +106,7 @@ Jak widzimy, do budowy modeli wystarczą najzwyklejsze krajowe materiały, listw
 
 Do budowy poszczególnych wersji modelu potrzebne są następujące ilości podstawowych materiałów:
 
-#### WICHEREK 5
+#### Wicherek 5
 
 * listwy sosnowe 2x2 mm — 8 m
 * 5x2 mm — 3 m
@@ -117,7 +117,7 @@ Do budowy poszczególnych wersji modelu potrzebne są następujące ilości pods
 * albo szprychy rowerowe — 2 szt.
 * bibułka albo papier japoński — 3 ark.
 
-#### WICHEREK 10
+#### Wicherek 10
 
 * listewki sosnowe 3x3 mm — 10 m
 * 5x3 mm — 5 m
@@ -128,7 +128,7 @@ Do budowy poszczególnych wersji modelu potrzebne są następujące ilości pods
 * albo szprychy rowerowe — 2 szt.
 * bibułka lub papier japoński — 5 ark.
 
-#### WICHEREK 15
+#### Wicherek 15
 
 * listewki sosnowe 3x3 mm — 15 m
 * 5x3 mm — 7 m
@@ -140,7 +140,7 @@ Do budowy poszczególnych wersji modelu potrzebne są następujące ilości pods
 * papier japoński — 5 ark.
 * lub cienki papier pakowy Natron — 1 ark.
 
-#### WICHEREK 25
+#### Wicherek 25
 
 * listewki sosnowe 5x3 mm — 20 m
 * 10x3mm — 7 m
@@ -151,7 +151,7 @@ Do budowy poszczególnych wersji modelu potrzebne są następujące ilości pods
 * albo szprychy rowerowe — 6 szt.
 * papier pakowy Natron, cienki — 2 ark.
 
-#### WICHEREK 50
+#### Wicherek 50
 
 * listewki sosnowe 5x3 mm — 15 m
 * 10x3mm — 15 m
@@ -161,7 +161,7 @@ Do budowy poszczególnych wersji modelu potrzebne są następujące ilości pods
 * lub drut stalowy o średnicy 3 mm — 2 m
 * papier pakowy Natron gruby — 2 ark.
 
-#### WICHEREK 25P
+#### Wicherek 25P
 
 * listewki sosnowe 5x3 mm — 20 m
 * 10x3mm — 7 m
